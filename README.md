@@ -68,6 +68,4 @@ Contributions are welcome!  If you find a bug or want to add a feature, please f
 5.  **Push to Your Fork:** Push your changes to your forked repository (e.g., `git push origin fix-pause-issue`).
 6.  **Create a Pull Request:** Go to the original repository on GitHub and create a pull request from your branch to the `main` branch.  Describe your changes and why they're needed.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  (You'll need to create a file named `LICENSE` in your repository and paste the MIT license text into it.)
